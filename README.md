@@ -1,4 +1,4 @@
-# Hey, I'm Cesar 👋
+# Hi everyone, I'm Cesar 👋
 
 **DevSecOps engineer** in Milan 🇮🇹. I work where cloud-native infrastructure,
 automation and security overlap: Kubernetes clusters, GitOps and CI/CD pipelines,
@@ -21,12 +21,12 @@ Every repo here pairs with a post that explains the *why*.
 ## Toolbox
 
 `Kubernetes` `Argo CD` `Helm` `Jenkins` `OPA/Rego` `Gatekeeper` `Kyverno`
-`Falco` `Tetragon` `Trivy` `Grype` `Vault` `CyberArk Conjur` `Python` `Bash` `Groovy`
-`Burp Suite` `SonarQube` `Sigstore/cosign`
+`Falco` `Tetragon` `Trivy` `Grype` `Vault` `CyberArk Conjur` `Burp Suite`
+`Python` `Bash` `SonarQube` `Sigstore/cosign`
 
 ## Also
 
-- 🎓 CKA · Snyk CTP · CyberArk Sentry (Secrets)
+- 🎓 Certified Kubernetes Administrator | Python + Java Programmer | CyberArk Sentry
 - 🌍 ES native · EN C1 · IT B2 · DE B1 · ET A1 (and climbing 🇪🇪)
 - 🧰 Free tools on the site: [CVE search](https://cbnative.com/cve) ·
   [CVSS calculator](https://cbnative.com/cvss) · [K8sLint](https://cbnative.com/k8slint)
