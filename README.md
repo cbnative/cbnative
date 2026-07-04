@@ -1,11 +1,9 @@
 # Hi everyone, I'm Cesar 👋
 
-**DevSecOps engineer** in Milan 🇮🇹. I work where cloud-native infrastructure,
-automation and security overlap: Kubernetes clusters, GitOps and CI/CD pipelines,
-policy and network controls, secrets management, and the scanners that keep all of it honest.
+**DevSecOps engineer** in Milan 🇮🇹. I work where cloud-native infrastructure, automation and security overlap: Kubernetes clusters, GitOps and CI/CD pipelines, policy and network controls, secrets management, and the scanners that keep all of it honest.
 
 🔭 I write practical, reproducible security engineering guides at **[cbnative.com](https://cbnative.com)**:
-50+ posts on Kubernetes security, CI/CD hardening, detection engineering and supply chain security.
+50+ hands-on posts on running and securing cloud-native infrastructure.
 Every repo here pairs with a post that explains the *why*.
 
 ## Featured
